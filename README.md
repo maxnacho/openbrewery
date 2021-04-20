@@ -11,3 +11,5 @@ List Breweries coverage:
 9. Sort by existing field asc / desc using filter;
 10. Sort by unexisting field asc / desc using filter;
 11. Sort, using * instead of required '+' and '-'.
+
+Estimated efford is about few hours.
