@@ -1,3 +1,5 @@
+Search Breweries notes: in case of absent query params we catch 500, we could cover this case if the exception was processed.
+
 List Breweries coverage:
 
 1. GET https://api.openbrewerydb.org/breweries (assert body structure, status code);
